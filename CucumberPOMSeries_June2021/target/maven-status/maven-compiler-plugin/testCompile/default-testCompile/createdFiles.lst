@@ -1,0 +1,7 @@
+MyTestRunner\MyTestRunner.class
+MyTestRunner\MySerenityTestRunner.class
+StepDefinitions\ParallelRun.class
+Apphooks\ApplicationHooks.class
+StepDefinitions\ContactUsSteps.class
+StepDefinitions\AccountsPageSteps.class
+StepDefinitions\LoginPageSteps.class
